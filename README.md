@@ -1,5 +1,7 @@
 # Ember-audio-visualizer
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/MyPureCloud/ember-audio-visualizer.svg)](https://greenkeeper.io/)
+
 ## Use
 
 * `ember install ember-audio-visualizer`
